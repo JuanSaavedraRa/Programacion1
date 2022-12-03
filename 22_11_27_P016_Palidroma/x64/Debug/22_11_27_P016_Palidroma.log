@@ -1,0 +1,3 @@
+﻿  22_11_27_P016_Palidroma.cpp
+C:\Users\saave\Downloads\Fundamentos de la progamacion\22_11_27_P016_Palidroma\22_11_27_P016_Palidroma.cpp(11,5): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  22_11_27_P016_Palidroma.vcxproj -> C:\Users\saave\Downloads\Fundamentos de la progamacion\22_11_27_P016_Palidroma\x64\Debug\22_11_27_P016_Palidroma.exe
