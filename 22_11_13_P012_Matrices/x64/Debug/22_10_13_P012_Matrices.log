@@ -1,0 +1,5 @@
+﻿  22_10_13_P012_Matrices.cpp
+C:\Users\saave\Downloads\Fundamentos de la progamacion\22_11_13_P012_Matrices\22_10_13_P012_Matrices.cpp(94,11): error C2372: 'matriz': nueva definición; distintos tipos de direccionamiento indirecto
+C:\Users\saave\Downloads\Fundamentos de la progamacion\22_11_13_P012_Matrices\22_10_13_P012_Matrices.cpp(21): message : vea la declaración de 'matriz'
+C:\Users\saave\Downloads\Fundamentos de la progamacion\22_11_13_P012_Matrices\22_10_13_P012_Matrices.cpp(97,33): error C2440: '=': no se puede realizar la conversión de 'int *' a 'int'
+C:\Users\saave\Downloads\Fundamentos de la progamacion\22_11_13_P012_Matrices\22_10_13_P012_Matrices.cpp(97,23): message : No existe un contexto en el que sea posible realizar esta conversión
