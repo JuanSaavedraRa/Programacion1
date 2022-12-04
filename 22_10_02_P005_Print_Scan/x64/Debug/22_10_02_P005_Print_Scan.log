@@ -1,0 +1,18 @@
+﻿  22_10_02_P005_Print_Scan.cpp
+C:\Users\saave\Downloads\Fundamentos de la progamacion\22_10_02_P005_Print_Scan\22_10_02_P005_Print_Scan.cpp(20,13): warning C4477: 'scanf_s' : la cadena de formato '%d' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo 'bool *'
+C:\Users\saave\Downloads\Fundamentos de la progamacion\22_10_02_P005_Print_Scan\22_10_02_P005_Print_Scan.cpp(26,20): warning C4474: "scanf_s": se pasaron demasiados argumentos para la cadena de formato
+C:\Users\saave\Downloads\Fundamentos de la progamacion\22_10_02_P005_Print_Scan\22_10_02_P005_Print_Scan.cpp(26,20): message : los marcadores de posición y sus parámetros esperan 0 argumentos variádicos, pero se proporcionaron 1
+C:\Users\saave\Downloads\Fundamentos de la progamacion\22_10_02_P005_Print_Scan\22_10_02_P005_Print_Scan.cpp(28,13): warning C4477: 'scanf_s' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'std::string *'
+C:\Users\saave\Downloads\Fundamentos de la progamacion\22_10_02_P005_Print_Scan\22_10_02_P005_Print_Scan.cpp(28,13): message : este argumento se utiliza por un especificador de conversión
+C:\Users\saave\Downloads\Fundamentos de la progamacion\22_10_02_P005_Print_Scan\22_10_02_P005_Print_Scan.cpp(28,13): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\saave\Downloads\Fundamentos de la progamacion\22_10_02_P005_Print_Scan\22_10_02_P005_Print_Scan.cpp(28,13): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+C:\Users\saave\Downloads\Fundamentos de la progamacion\22_10_02_P005_Print_Scan\22_10_02_P005_Print_Scan.cpp(28,13): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%s'
+C:\Users\saave\Downloads\Fundamentos de la progamacion\22_10_02_P005_Print_Scan\22_10_02_P005_Print_Scan.cpp(28,13): message : este argumento se utiliza como un tamaño de búfer
+C:\Users\saave\Downloads\Fundamentos de la progamacion\22_10_02_P005_Print_Scan\22_10_02_P005_Print_Scan.cpp(31,13): warning C4477: 'scanf_s' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'int'
+C:\Users\saave\Downloads\Fundamentos de la progamacion\22_10_02_P005_Print_Scan\22_10_02_P005_Print_Scan.cpp(31,13): message : este argumento se utiliza por un especificador de conversión
+C:\Users\saave\Downloads\Fundamentos de la progamacion\22_10_02_P005_Print_Scan\22_10_02_P005_Print_Scan.cpp(31,13): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\saave\Downloads\Fundamentos de la progamacion\22_10_02_P005_Print_Scan\22_10_02_P005_Print_Scan.cpp(31,13): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+C:\Users\saave\Downloads\Fundamentos de la progamacion\22_10_02_P005_Print_Scan\22_10_02_P005_Print_Scan.cpp(31,13): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%s'
+C:\Users\saave\Downloads\Fundamentos de la progamacion\22_10_02_P005_Print_Scan\22_10_02_P005_Print_Scan.cpp(31,13): message : este argumento se utiliza como un tamaño de búfer
+C:\Users\saave\Downloads\Fundamentos de la progamacion\22_10_02_P005_Print_Scan\22_10_02_P005_Print_Scan.cpp(39,12): warning C4477: 'printf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'std::string *'
+  22_10_02_P005_Print_Scan.vcxproj -> C:\Users\saave\Downloads\Fundamentos de la progamacion\22_10_02_P005_Print_Scan\x64\Debug\22_10_02_P005_Print_Scan.exe
